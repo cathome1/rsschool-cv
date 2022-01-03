@@ -4,7 +4,7 @@
     border: 1px solid rgb(0,0,0);
     border-radius: 360px;
 }
-header {
+.header {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
